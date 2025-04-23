@@ -11,7 +11,7 @@ public class RecursionProgram
         ArrayList<Integer> intArrList = new ArrayList<Integer>(Arrays.asList(1,2,3));
         sumMyList( intArrList, intArrList.size() );
 
-        //Try this interative word reverser.
+        //Try this iterative word reverser.
         iterateWordReverse("hello");
 
         //Try this recursive word reverser.
